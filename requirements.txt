@@ -3,5 +3,4 @@ handcalcs
 forallpeople
 plotly
 numpy
-os
 pandas
