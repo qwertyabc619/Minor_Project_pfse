@@ -1,9 +1,6 @@
-streamlit
 handcalcs
 forallpeople
 plotly
 numpy
-dataclasses
-math
 os
 pandas
